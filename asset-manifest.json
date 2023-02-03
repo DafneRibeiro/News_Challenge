@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsChallenge/static/css/main.7f3dcc67.css",
+    "main.js": "/NewsChallenge/static/js/main.6d20439e.js",
+    "index.html": "/NewsChallenge/index.html",
+    "main.7f3dcc67.css.map": "/NewsChallenge/static/css/main.7f3dcc67.css.map",
+    "main.6d20439e.js.map": "/NewsChallenge/static/js/main.6d20439e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3dcc67.css",
+    "static/js/main.6d20439e.js"
+  ]
+}
